@@ -1,2 +1,2 @@
 # Scala-Aprendizaje
-Estos programas fueron tomadoas de varias cursos. Son programas para ver lo basico de SCALA.
+Estos programas fueron tomados de varias cursos. Son programas para ver lo basico de SCALA.
